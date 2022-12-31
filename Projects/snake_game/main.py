@@ -19,8 +19,7 @@ while is_true:
     time.sleep(.1)
     snake.move()
 
-# testtt
-
+# testt
 
 
 
