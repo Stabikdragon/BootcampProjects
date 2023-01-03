@@ -18,13 +18,19 @@ class Snake:
 
     def create_turtle(self):
         for position in LOCATION:
-            tim = Turtle("square")
-            tim.penup()
-            tim.speed("fast")
-            tim.color("white")
-            tim.setposition(position)
-            self.n_turtles.append(tim)
+            self.add_segment(position)
 
+
+    def add_segment(self,position):
+        tim = Turtle("square")
+        tim.penup()
+        tim.speed("fast")
+        tim.color("white")
+        tim.setposition(position)
+        self.n_turtles.append(tim)
+
+    def extend(self):
+        self.add_segment(self.n_turtles[-1].position())
     def move(self):
 
             for turtle in range(len(self.n_turtles) - 1, 0, -1):
