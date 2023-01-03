@@ -24,7 +24,7 @@ class Snake:
     def add_segment(self,position):
         tim = Turtle("square")
         tim.penup()
-        tim.speed("fast")
+        tim.speed("slow")
         tim.color("white")
         tim.setposition(position)
         self.n_turtles.append(tim)
