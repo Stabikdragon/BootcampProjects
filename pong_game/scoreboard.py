@@ -7,8 +7,22 @@ class Scoreboard(Turtle):
         self.color("white")
         self.ht()
         self.penup()
-        self.goto(0,280)
-        self.score = 0
-        self.write(f"test{self.score}", align="center", font=('Arial', 10, 'bold'))
+        self.r_score = 0
+        self.l_score = 0
+        self.update_scoreboard()
+    def update_scoreboard(self):
+        self.clear()
+        self.goto(-100, 200)
+        self.write(f"{self.l_score}", align="center", font=('Arial', 50, 'bold'))
+        self.goto(100, 200)
+        self.write(f"{self.r_score}", align="center", font=('Arial', 50, 'bold'))
 
 
+
+    def l_point(self):
+        self.l_score += 1
+        self.update_scoreboard()
+
+    def r_point(self):
+        self.r_score += 1
+        self.update_scoreboard()
