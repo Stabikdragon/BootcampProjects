@@ -1,4 +1,5 @@
 from turtle import Turtle
+import random
 
 
 COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
@@ -11,21 +12,24 @@ class CarManager(Turtle):
         super().__init__()
         self.cars = []
         self.create()
-        self.move()
+        self.ht()
+
 
 
     def create(self):
-        for i in range(0, 6):
             new_turtle = Turtle()
+            rand_postion = random.choice(POSITIONS)
+            rand_color = random.choice(COLORS)
+            new_turtle.shape("turtle")
             new_turtle.penup()
             new_turtle.seth(180)
-            new_turtle.setposition(240, POSITIONS[i])
-            new_turtle.color(COLORS[i])
+            new_turtle.setposition(240, rand_postion)
+            new_turtle.color(rand_color)
             self.cars.append(new_turtle)
-            self.move()
+
     def move(self):
-        new_x= self.xcor() - MOVE_INCREMENT
-        self.goto(self.ycor(), new_x)
+        for turtle in self.cars:
+            turtle.forward(MOVE_INCREMENT)
 
 
 

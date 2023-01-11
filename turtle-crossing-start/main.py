@@ -10,7 +10,6 @@ screen.tracer(0)
 player = Player()
 screen.listen()
 car = CarManager()
-
 screen.onkeypress(player.move,"Up")
 
 
@@ -18,8 +17,12 @@ screen.onkeypress(player.move,"Up")
 
 game_is_on = True
 while game_is_on:
-    time.sleep(0.1)
+    car.create()
+    time.sleep(1)
     screen.update()
+    car.move()
+
+
 
 
 
