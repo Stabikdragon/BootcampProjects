@@ -27,16 +27,14 @@ game_is_on = True
 
 while game_is_on:
     car.create()
-
     score.write_level()
     for i in range(6):
         car.move()
         time.sleep(.06)
         screen.update()
         for x in cars:
-            if x.distance(player) < 23 and x.xcor() == player.xcor():
+            if x.distance(player) < 20:
                 score.game_over()
-
                 game_is_on = False
             if player.ycor() > 280:
                 player.game_repeat()

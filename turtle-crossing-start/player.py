@@ -14,7 +14,7 @@ class Player(Turtle):
         self.penup()
         self.seth(90)
         self.shape("turtle")
-        self.goto(STARTING_POSITION)
+        self.game_repeat()
     def move(self):
         new_y = self.ycor() + MOVE_DISTANCE
         self.goto(self.xcor(), new_y)
