@@ -20,7 +20,6 @@ class Player(Turtle):
         self.goto(self.xcor(), new_y)
 
     def game_repeat(self):
-        if self.ycor() > 260:
             time.sleep(1)
             self.clear()
             self.goto(STARTING_POSITION)
