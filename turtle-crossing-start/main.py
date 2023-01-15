@@ -60,14 +60,4 @@ screen.exitonclick()
 
 
 
-# TODO:Detect when the turtle player collides with a car and stop the game if this happens.
-#  If you get stuck,
-#  check the video walkthrough in Step 5.
 
-#
-
-# TODO:Create a scoreboard that keeps track of which level the user is on. Every time the
-#  turtle player does a
-#  successful crossing, the level should increase. When the turtle hits a car, GAME OVER
-#  should be displayed in the
-#  centre. If you get stuck, check the video walkthrough in Step 7.
