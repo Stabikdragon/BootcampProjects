@@ -35,12 +35,13 @@ while game_is_on:
         screen.update()
         for x in cars:
             if x.distance(player) < 23 and x.xcor() == player.xcor():
-                print("test")
+                score.game_over()
 
                 game_is_on = False
             if player.ycor() > 280:
                 player.game_repeat()
                 score.add_level()
+                car.increase_speed()
 
 
 

@@ -12,6 +12,7 @@ class CarManager(Turtle):
         super().__init__()
         self.cars = []
         self.ht()
+        self.speed = STARTING_MOVE_DISTANCE
 
     def create(self):
         new_turtle = Turtle()
@@ -27,7 +28,18 @@ class CarManager(Turtle):
 
     def move(self):
         for turtle in self.cars:
-            turtle.forward(MOVE_INCREMENT)
+            new_x = turtle.xcor() - self.speed
+            turtle.goto( new_x, turtle.ycor())
+
+    def increase_speed(self):
+        self.speed += MOVE_INCREMENT
+        for turtle in self.cars:
+            new_x = turtle.xcor() - self.speed
+            turtle.goto(new_x, turtle.ycor())
+
+
+
+
 
 # TODO: Create cars that are 20px high by 40px wide that are randomly generated along the y-axis and move to the left
 #  edge of the screen. No cars should be generated in the top and bottom 50px of the screen (think of it as a safe
