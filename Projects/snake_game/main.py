@@ -33,8 +33,8 @@ while is_true:
     for segment in snake.n_turtles[1:]:
         #
 
-        if snake.head.distance(segment) < 10:
-            print(snake.head.distance(segment))
-            is_true = False
-            scoreboard.game_over()
+        # if snake.head.distance(segment) < 20:
+        #     print(snake.head.distance(segment))
+        #     is_true = False
+        #     scoreboard.game_over()
 screen.exitonclick()
