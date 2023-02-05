@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e5fa16-eab4-4ee4-ad8b-05b7ddf95c56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/NATO+Phonetic+Alphabet+for+the+Code+Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NATO+Phonetic+Alphabet+for+the+Code+Exercise/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/day-30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-30/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../password-manager-start/passwords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../password-manager-start/passwords.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
