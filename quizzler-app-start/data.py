@@ -103,7 +103,7 @@
 # https://opentdb.com/api.php?amount=10&category=31&difficulty=medium&type=boolean
 import requests
 parameter = {
-    "amount": 10,
+    "amount": 5,
     "category": 31,
     "difficult": "hard",
     "type": "boolean",
@@ -111,3 +111,4 @@ parameter = {
 response = requests.get(url = "https://opentdb.com/api.php", params=parameter)
 response.raise_for_status()
 question_data = response.json()["results"]
+print(question_data)
