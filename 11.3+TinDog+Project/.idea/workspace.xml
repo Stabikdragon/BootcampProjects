@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8f831b1-db07-4625-894c-5ca29bbae6db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../11.2+Bootstrap+Components/.idea/11.2+Bootstrap+Components.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/11.3+TinDog+Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/css/solution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/features-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/footer-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/pricing-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/testimonial-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/goal images/title-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/bizinsider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/dog-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/mashable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/techcrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/images/tnw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3 TinDog Project/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/upgraded-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-templating-start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blog-templating-start/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RXYFyAsY0kS6Yr10oSEZJw89lg" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Python/upgraded-blog&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Python\11.3+TinDog+Project\11.3 TinDog Project" />
+      <recent name="C:\Users\user\Desktop\Python\11.3+TinDog+Project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8f831b1-db07-4625-894c-5ca29bbae6db" name="Changes" comment="" />
+      <created>1687397792492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687397792492</updated>
+    </task>
+    <servers />
+  </component>
+</project>

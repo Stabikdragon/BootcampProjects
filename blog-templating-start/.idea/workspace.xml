@@ -5,50 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcb6393b-b988-43bd-bed5-23ec4258a13f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-templating-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-templating-start/post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-templating-start/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-templating-start/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-templating-start/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-57-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-57-start/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-57-start/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/hello_flask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello_flask/python decorator example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../higher-lower/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../higher-lower/.idea/higher-lower.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../higher-lower/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/my-personal-site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../my-personal-site/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/name-card.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/static/images/zelda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../name-card/templates/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../personal-site-html-and-css-files/.idea/personal-site-html-and-css-files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.2+Bootstrap+Components/.idea/11.2+Bootstrap+Components.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/.idea/11.3+TinDog+Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/css/solution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/goal images/features-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/goal images/footer-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/goal images/pricing-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/goal images/testimonial-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/goal images/title-goal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/bizinsider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/dog-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/mashable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/techcrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/images/tnw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11.3+TinDog+Project/11.3 TinDog Project/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/upgraded-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upgraded-blog/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
