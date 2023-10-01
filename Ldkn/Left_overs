@@ -1,0 +1,35 @@
+email = "sthomas2357@gmail.com"
+password = "Ptiimy2357!"
+
+
+
+
+# sign_in = driver.find_element(By.LINK_TEXT, "Sign in")
+# sign_in.click()
+# time.sleep(1)
+# email_input = driver.find_element(By.NAME, "session_key")
+# password_input = driver.find_element(By.NAME, "session_password")
+# email_input.send_keys(f"{email}")
+# password_input.send_keys(f"{password}")
+# password_input.send_keys(Keys.ENTER)
+# time.sleep(5)
+# WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "iframe")))
+# iframe = driver.find_element(By.TAG_NAME, "iframe").get_property("id")
+# driver.switch_to.frame(iframe)
+# iframe2 = driver.find_element(By.TAG_NAME, "iframe").get_property("id")
+# driver.switch_to.frame("arkoseframe")
+# iframe3 = driver.find_element(By.TAG_NAME, "iframe")
+# driver.switch_to.frame(0)
+# iframe4 = driver.find_element(By.TAG_NAME, "iframe").get_property("id")
+# driver.switch_to.frame(iframe4)
+# iframe5 = driver.find_element(By.TAG_NAME, "iframe").get_property("id")
+# driver.switch_to.frame(iframe5)
+# verify_button = driver.find_element(By.TAG_NAME, "button")
+# verify_button.click()
+# time.sleep(5)
+# image_choices = [item for item in driver.find_elements(By.CSS_SELECTOR, "ul li a")]
+# user_choice = int(input("Which one is correct? "))
+# image_choices[user_choice-1].send_keys(Keys.ENTER)
+# time.sleep(10)
+
+# print(verify_button)
