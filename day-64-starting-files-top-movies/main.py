@@ -114,7 +114,7 @@ def add_to_database():
     response = requests.get(f'{URL_ID_ENDPOINT}{id_to_search}', headers=HEADERS).json()
     new_movie = Movie(id=response["id"], title=response["title"],
                       img_url=f'https://image.tmdb.org/t/p/original{response["poster_path"]}',
-                      year=response["release_date"][:4], review=response["overview"])
+                      year=response["release_date"][:4], description=response["overview"])
     db.session.add(new_movie)
     db.session.commit()
 

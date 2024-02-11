@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00150119-7d67-4d30-8eda-9727e429eb59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-64-starting-files-top-movies/instance/Top-Movies.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-64-starting-files-top-movies/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-64-starting-files-top-movies/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-66-starting-files-cafe-api/.idea/day-66-starting-files-cafe-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/day-67-starting-files-upgraded-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-67-starting-files-upgraded-blog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-63-starting-files-library-project/instance/new-books-collection.db" beforeDir="false" afterPath="$PROJECT_DIR$/../day-63-starting-files-library-project/instance/new-books-collection.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-64-starting-files-top-movies/instance/Top-Movies.db" beforeDir="false" afterPath="$PROJECT_DIR$/../day-64-starting-files-top-movies/instance/Top-Movies.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-64-starting-files-top-movies/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day-64-starting-files-top-movies/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
